@@ -22,8 +22,10 @@ O que considerar na minha msg?
 
 - Porque
 
+- Limitações
 
 
-git status? Comando que verifica
 
-O que acontece caso a gente esqueça o "-m" no commit
+git status? Verificar modificações no seu projeto
+
+O que acontece caso a gente esqueça o "-m" no commit: O git me obriga a escrever uma mensagem de todo jeito, podendo ser uma mensagem longa
