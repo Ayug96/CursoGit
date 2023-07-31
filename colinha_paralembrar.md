@@ -47,3 +47,5 @@ O que considerar na minha msg?
 **Git Remote:** Comando para criar a ponte entre o repositório local e repositório remote
 
 **Git Push:** Comanda para enviar os arquivos do repositório local para o repositório remoto 
+
+**Git Pull** tudo que vai volta levar arquivos atualizados remotamente para o repositório local
