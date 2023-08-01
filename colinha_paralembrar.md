@@ -22,8 +22,10 @@ O que considerar na minha msg?
 
 - Porque
 
-
-
 git status? Comando que verifica
 
 O que acontece caso a gente esqueça o "-m" no commit
+
+Git checkout: cuidado!!!!
+
+modificar o passado póde trazer consequencias para o presente 
