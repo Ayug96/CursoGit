@@ -19,3 +19,7 @@
 4. **Área Remota:** Local que os arquivos gerados serão depositados no git online (nuvem)
 
 **Git add PS:** o git add pode ser utilizado para adicionar outros diretórios tendo em mente a logistica e linha do tempo que será criada
+
+
+
+Boa tarde, quero criar um caos, vou criar um conflito
