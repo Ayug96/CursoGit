@@ -22,8 +22,6 @@
 
 Boa tarde, quero criar um caos, vou criar um conflito
 
-
-
 Branch: criar um local paralelo na sua linha do tempo, que tem como função realizar testes de versões, softwares, sem ter risco de alterar a linha do tempo principal
 
 1. Git branch: criar um local
@@ -32,9 +30,9 @@ Branch: criar um local paralelo na sua linha do tempo, que tem como função rea
 
 Checkout: Será o nosso delorian passeando pela linha do tempo a depender do id do commit que você colocar além de entrar e sair do branch
 
-1.  git checkout <nome>
+1. git checkout <nome>
 
-2.  git checkout <id>
+2. git checkout <id>
 
 # Conflitos
 
@@ -52,6 +50,14 @@ Principalmente quando trabalhar em colaboração a existência de "conflitos" é
    
    3. push
 
-
-
 Efeito espelho: arquivos que estão depositados no git se encontra na pasta no projeto e uma ação feita em qualquer parte, vai refletir em outro.
+
+
+
+Criar tags: dar nome ao commit 
+
+git push --tag enviar tag para o repositório remoto
+
+
+
+git merge: juntar uma linha do tempo aleatória a linha do tempo principal
