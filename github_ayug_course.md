@@ -4,7 +4,9 @@
 
 - **GitHub:** Plataforma que permite armazenar e criar backups de projetos;
 
+- **Colaboração:** Para inclusão de colaboradores, o proprietário do repositório deve acessar seu repositório no GitHub>Settings>Collaborators>Add people, inserir o e-mail do colaborador, o qual deve criar o repositorio local, utilizando o comando gitr clone <ssh>.
 
+- 
 
 # Áreas Conceituais
 
@@ -16,8 +18,4 @@
 
 4. **Área Remota:** Local que os arquivos gerados serão depositados no git online (nuvem)
 
-
-
 **Git add PS:** o git add pode ser utilizado para adicionar outros diretórios tendo em mente a logistica e linha do tempo que será criada
-
-
