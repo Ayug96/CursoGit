@@ -24,8 +24,6 @@ O que considerar na minha msg?
 
 - Limitações
 
-
-
 **git status:** Verificar modificações no seu projeto
 
 **O que acontece caso a gente esqueça o "-m" no commit:** O git me obriga a escrever uma mensagem de todo jeito, podendo ser uma mensagem longa
@@ -49,3 +47,7 @@ O que considerar na minha msg?
 **Git Push:** Comanda para enviar os arquivos do repositório local para o repositório remoto 
 
 **Git Pull** tudo que vai volta levar arquivos atualizados remotamente para o repositório local
+
+**Git branch <name>:** criar timeline paralela
+
+**Git checkout <name>:** acessar sua linha de tempo paralela
