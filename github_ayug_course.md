@@ -20,8 +20,4 @@
 
 **Git add PS:** o git add pode ser utilizado para adicionar outros diretórios tendo em mente a logistica e linha do tempo que será criada
 
-
-
 Boa tarde, quero criar um caos, vou criar um conflito
-
-    Sou tão boa que esqueci de criar um conflito
