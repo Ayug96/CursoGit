@@ -22,6 +22,8 @@ O que considerar na minha msg?
 
 - Porque
 
+<<<<<<< HEAD
+
 - Limitações
 
 **git status:** Verificar modificações no seu projeto
@@ -51,3 +53,10 @@ O que considerar na minha msg?
 **Git branch <name>:** criar timeline paralela
 
 **Git checkout <name>:** acessar sua linha de tempo paralela
+=======
+
+git status? Comando que verifica
+
+O que acontece caso a gente esqueça o "-m" no commit
+
+Git checkout: cuidado!!!!
